@@ -1,0 +1,4 @@
+/* Example program for the imperative language impl */
+
+n=+2+3;
+output n;
